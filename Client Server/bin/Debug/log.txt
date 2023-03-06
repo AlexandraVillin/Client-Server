@@ -1,0 +1,8 @@
+MyServer
+port: 0 clients: 4 active: no
+----------------------------------------------
+
+Dummy Client: 1 grah
+Dummy Client: 2 crnja
+Message Client: kul grah
+Message Client: lud crnja

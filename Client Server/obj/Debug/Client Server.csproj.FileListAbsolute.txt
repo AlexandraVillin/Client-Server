@@ -1,0 +1,7 @@
+C:\Users\acolj\Desktop\programs\Client Server\bin\Debug\Client Server.exe.config
+C:\Users\acolj\Desktop\programs\Client Server\bin\Debug\Client Server.exe
+C:\Users\acolj\Desktop\programs\Client Server\bin\Debug\Client Server.pdb
+C:\Users\acolj\Desktop\programs\Client Server\obj\Debug\Client Server.csprojAssemblyReference.cache
+C:\Users\acolj\Desktop\programs\Client Server\obj\Debug\Client Server.csproj.CoreCompileInputs.cache
+C:\Users\acolj\Desktop\programs\Client Server\obj\Debug\Client Server.exe
+C:\Users\acolj\Desktop\programs\Client Server\obj\Debug\Client Server.pdb
